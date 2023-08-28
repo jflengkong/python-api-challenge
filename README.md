@@ -6,7 +6,7 @@ These codes allow us to prove these simple questions. This deliverable will find
 
 We used the following Dependencies: 
 
-![dependencies]()
+![dependencies](https://github.com/jflengkong/python-api-challenge/blob/main/Screenshots/dependencies.png)
 
 import matplotlib.pyplot as plt
 import pandas as pd
@@ -17,12 +17,17 @@ from scipy.stats import linregress
 
 This repository will show the following: 
 
-##Part 1: WeatherPY 
+## Part 1: WeatherPY 
+Note all these screenshots will vary dependent on each random latitude and longitude provided by each random generator. These screenshots are provided for examples. 
 1. Plots to showcase the Relationship Between Weather Variables and Latitude: 
     - Latitude vs. Temperature
+    - ![Lat vs. Temp](https://github.com/jflengkong/python-api-challenge/blob/main/output_data/Fig1.png)
     - Latitude vs. Humidity
+    - ![Lat vs. Humidity](https://github.com/jflengkong/python-api-challenge/blob/main/output_data/Fig2.png)
     - Latitude vs. Cloudiness
+    - ![Lat vs. Cloudiness](https://github.com/jflengkong/python-api-challenge/blob/main/output_data/Fig3.png)
     - Latitude vs. Wind Speed
+    - ![Lat vs. Wind Speed](https://github.com/jflengkong/python-api-challenge/blob/main/output_data/Fig4.png)
 2. Linear regression for Each Relationship into Northern vs. Southern Hemisphere including the following plots:
     - Northern Hemisphere: Temperature (C) vs. Latitude
     - Southern Hemisphere: Temperature (C) vs. Latitude
