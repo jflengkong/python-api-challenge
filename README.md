@@ -32,14 +32,14 @@ Note all screenshots will vary dependent on each random latitude and longitude p
     - Southern Hemisphere: Wind Speed (m/s) vs. Latitude
       
 ## Part 2: VacationPy  
-Weather data skills put to the test to plan future vacations. [Hyplot](https://pypi.org/project/hvplot/) library was be used with Geoviews. The following were completed: 
+Weather data skills put to the test to plan future vacations. [Hvplot](https://pypi.org/project/hvplot/) library was be used with Geoviews. The following were completed: 
 1. A map that displays a point for every city in the city_data_df create in WeatherPy.
-   ![map](https://github.com/jflengkong/python-api-challenge/blob/main/Screenshots/map.png)
+   ![map hotel](https://github.com/jflengkong/python-api-challenge/blob/main/Screenshots/hotel_df.png)
 2. A dataframe called hotel_df that includes my ideal weather conditions (below 25 degrees C and less than 40% Humidity)
 3. Completed hotel_df with the first hotel located within 10,000 metres of the coordinates of each city in hotel_df
    ![hotel_df](https://github.com/jflengkong/python-api-challenge/blob/main/Screenshots/hotel_df_df.png)
 4. Add the hotel name and country as additional information in the hover message for each city in the map.
-   ![map hotel](https://github.com/jflengkong/python-api-challenge/blob/main/Screenshots/hotel_df.png)
+   ![map](https://github.com/jflengkong/python-api-challenge/blob/main/Screenshots/map.png)
 
 
 
